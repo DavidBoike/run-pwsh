@@ -1,0 +1,19 @@
+{
+  "name": "run-pwsh",
+  "version": "0.1.0",
+  "description": "Runs a .ps1 file with pwsh",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidBoike/run-pwsh.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DavidBoike/run-pwsh/issues"
+  },
+  "homepage": "https://github.com/DavidBoike/run-pwsh#readme"
+}
